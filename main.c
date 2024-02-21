@@ -1,3 +1,5 @@
+//pre and post inc and dec
+
 #include <stdio.h>
 #include <stdlib.h>
 
